@@ -1,4 +1,21 @@
 {
   "name": "Anti Denuvo Sanctuary",
-  "downloads": []
+  "downloads": [
+    {
+      "title": "GAME NAME",
+      "uris": [
+        "DOWNLOAD_LINK1"
+      ],
+      "uploadDate": "2025-01-01T00:00:00.000Z",
+      "fileSize": "10 GB"
+    },
+    {
+      "title": "GAME NAME 2",
+      "uris": [
+        "DOWNLOAD_LINK2"
+      ],
+      "uploadDate": "2025-01-01T00:00:00.000Z",
+      "fileSize": "10 GB"
+    }
+  ]
 }
